@@ -124,3 +124,4 @@ h2{font-size:clamp(26px,3.6vw,34px)}
 .foot{padding:36px 0}
 @media(max-width:820px){.sec.dark{padding:64px 0 56px}.hero-art{width:360px;right:-120px;opacity:.35}.sec{padding:48px 0}}
 .card h3{font-size:20px}
+.card>svg{width:48px;height:48px;margin-bottom:2px}
